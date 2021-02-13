@@ -1,8 +1,12 @@
 /*Custom CSS*/
 .koseli{border-radius: 0px !important;}
+
 /*font*/
 .mont{font-family: 'Montserrat', sans-serif !important;}
 .lato{font-family: 'Lato', sans-serif;}
-
+.nato{font-family: 'Noto Sans JP', sans-serif;}
 /*hashtags*/
 .hashtags a{font-size: 11px;}
+
+/*team*/
+#team .row .col-md-3{padding:10px;}
